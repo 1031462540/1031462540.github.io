@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/1031462540/1031462540.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+主页
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+信号与系统
+## 林扬锦
+## 班级 电信192
+## 学号 3190432044
 
-### Markdown
+---
+##[信号与系统实践环节](https://github.com/1031462540/1031462540.github.io)
+1.[申请github账号](https://github.com/1031462540/1031462540.github.io)
+2.[连续信号](https://github.com/1031462540/1031462540.github.io/blob/main/林扬锦连续信号.py)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1031462540/1031462540.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
