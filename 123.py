@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 win = tk.Tk()
 
-# 定义功能函数, event是必须添加的参数，不知道来自哪里
 
 def button_command1():
     t = np.linspace(0,2,200)
@@ -35,7 +34,6 @@ def button_command4():
     plt.plot(t,unit(t))
     plt.show()
 
-# 绑定事件
 
 btn1 = tk.Button(win, text="指数信号", command=button_command1)
 btn1.place(relx=0.1, rely=0.1, relwidth=0.2, relheight=0.2)
